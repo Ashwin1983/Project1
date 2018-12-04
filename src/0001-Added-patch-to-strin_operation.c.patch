@@ -1,0 +1,21 @@
+From d3c33cc2dff7086b096f42d47ac065a21e522163 Mon Sep 17 00:00:00 2001
+From: Ashwin <ramachandra.ashwin@gmail.com>
+Date: Tue, 4 Dec 2018 15:50:37 +0530
+Subject: [PATCH] Added patch to strin_operation.c
+
+---
+ src/string_operations.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/string_operations.c b/src/string_operations.c
+index 16fed60..d03ba95 100644
+--- a/src/string_operations.c
++++ b/src/string_operations.c
+@@ -1,3 +1,4 @@
++#to check patch-format command
+ #include <stdio.h>
+ 
+ size_t my_strlen(const char *s)
+-- 
+2.19.2.windows.1
+
