@@ -1,4 +1,3 @@
-#to check patch-format command
 #include <stdio.h>
 
 size_t my_strlen(const char *s)
