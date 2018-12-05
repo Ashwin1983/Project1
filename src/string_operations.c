@@ -1,3 +1,5 @@
+#changes by User2 on main branch
+#changes from wcharbranch
 #include <stdio.h>
 
 size_t my_strlen(const char *s)
