@@ -1,4 +1,4 @@
-mercury
-venus
-earth
-mars
+mercurygalaxy
+venusgalxy
+earthgalxy
+marsgalxy
